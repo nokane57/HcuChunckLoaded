@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hcu_chunk_loaded",
+  "name": "HCU Chunk Loaded",
+  "description": "forced load chunk mods.",
+  "version": "",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nokane_57"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
